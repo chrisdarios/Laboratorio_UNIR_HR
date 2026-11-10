@@ -1,0 +1,69 @@
+"<DirectorioEmpresa>
+  <Departamento id="10" nombre="Administration">
+    <ListaEmpleados>
+      <Empleado id="200">
+        <Nombre>Jennifer</Nombre>
+        <Apellido>Whalen</Apellido>
+        <Correo>JWHALEN</Correo>
+        <Salario>4400</Salario>
+      </Empleado>
+    </ListaEmpleados>
+  </Departamento>
+  <Departamento id="20" nombre="Marketing">
+    <ListaEmpleados>
+      <Empleado id="201">
+        <Nombre>Michael</Nombre>
+        <Apellido>Martinez</Apellido>
+        <Correo>MMARTINE</Correo>
+        <Salario>13000</Salario>
+      </Empleado>
+      <Empleado id="202">
+        <Nombre>Pat</Nombre>
+        <Apellido>Davis</Apellido>
+        <Correo>PDAVIS</Correo>
+        <Salario>6000</Salario>
+      </Empleado>
+    </ListaEmpleados>
+  </Departamento>
+  <Departamento id="30" nombre="Purchasing">
+    <ListaEmpleados>
+      <Empleado id="114">
+        <Nombre>Den</Nombre>
+        <Apellido>Li</Apellido>
+        <Correo>DLI</Correo>
+        <Salario>11000</Salario>
+      </Empleado>
+      <Empleado id="119">
+        <Nombre>Karen</Nombre>
+        <Apellido>Colmenares</Apellido>
+        <Correo>KCOLMENA</Correo>
+        <Salario>2500</Salario>
+      </Empleado>
+      <Empleado id="118">
+        <Nombre>Guy</Nombre>
+        <Apellido>Himuro</Apellido>
+        <Correo>GHIMURO</Correo>
+        <Salario>2600</Salario>
+      </Empleado>
+      <Empleado id="117">
+        <Nombre>Sigal</Nombre>
+        <Apellido>Tobias</Apellido>
+        <Correo>STOBIAS</Correo>
+        <Salario>2800</Salario>
+      </Empleado>
+      <Empleado id="116">
+        <Nombre>Shelli</Nombre>
+        <Apellido>Baida</Apellido>
+        <Correo>SBAIDA</Correo>
+        <Salario>2900</Salario>
+      </Empleado>
+      <Empleado id="115">
+        <Nombre>Alexander</Nombre>
+        <Apellido>Khoo</Apellido>
+        <Correo>AKHOO</Correo>
+        <Salario>3100</Salario>
+      </Empleado>
+    </ListaEmpleados>
+  </Departamento>
+</DirectorioEmpresa>
+"
